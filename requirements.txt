@@ -1,0 +1,26 @@
+# requirements.txt
+# ─────────────────────────────────────────────────────
+# Deep Learning – Thyroid Nodule Classification Project
+# ─────────────────────────────────────────────────────
+
+# Core deep learning
+tensorflow>=2.12.0,<2.16.0
+
+# Data & numerical
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+
+# Image processing
+opencv-python>=4.7.0
+Pillow>=9.4.0
+
+# Visualisation
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Web application
+streamlit>=1.24.0
+
+# Utilities
+tqdm>=4.65.0
